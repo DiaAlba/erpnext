@@ -19,3 +19,4 @@ max_line_length = 110
 insert_final_newline = false
 indent_style = space
 indent_size = 1
+ # add a comment
